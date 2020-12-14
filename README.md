@@ -1,2 +1,2 @@
 # n-puzzle
-Solving N-puzzle game using Rusr and IDA* algorithm
+Solving N-puzzle game using Rust and IDA* algorithm
