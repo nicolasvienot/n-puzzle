@@ -9,6 +9,16 @@ Solving N-puzzle game using Rust and IDA* algorithm
 
 ![](assets/demo.gif) 
 
+## Run 🚀
+
+``cargo run --release -- [args]``
+
+## Build ⚙️
+
+``cargo build --release``
+
+``./target/release/npuzzle [args]``
+
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
