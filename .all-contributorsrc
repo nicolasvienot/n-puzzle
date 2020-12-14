@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "sgalasso42",
+      "name": "Simon Galasso",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/38636967?v=4",
+      "profile": "https://github.com/sgalasso42",
+      "contributions": [
+        "infra",
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "n-puzzle",
+  "projectOwner": "nicolasvienot",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
