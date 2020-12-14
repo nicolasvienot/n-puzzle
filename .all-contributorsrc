@@ -14,6 +14,16 @@
         "infra",
         "code"
       ]
+    },
+    {
+      "login": "sgalasso42",
+      "name": "Simon Galasso",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/38636967?v=4",
+      "profile": "https://github.com/sgalasso42",
+      "contributions": [
+        "infra",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
