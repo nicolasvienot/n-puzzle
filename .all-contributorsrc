@@ -6,20 +6,20 @@
   "commit": false,
   "contributors": [
     {
-      "login": "nicolasvienot",
-      "name": "Nicolas Viénot",
-      "avatar_url": "https://avatars0.githubusercontent.com/u/44903069?v=4",
-      "profile": "https://fr.linkedin.com/in/nicolasvienot",
+      "login": "sgalasso42",
+      "name": "Simon Galasso",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/38636967?v=4",
+      "profile": "https://github.com/sgalasso42",
       "contributions": [
         "infra",
         "code"
       ]
     },
     {
-      "login": "sgalasso42",
-      "name": "Simon Galasso",
-      "avatar_url": "https://avatars2.githubusercontent.com/u/38636967?v=4",
-      "profile": "https://github.com/sgalasso42",
+      "login": "nicolasvienot",
+      "name": "Nicolas Viénot",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/44903069?v=4",
+      "profile": "https://fr.linkedin.com/in/nicolasvienot",
       "contributions": [
         "infra",
         "code"

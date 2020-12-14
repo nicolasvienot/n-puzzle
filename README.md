@@ -13,8 +13,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://fr.linkedin.com/in/nicolasvienot"><img src="https://avatars0.githubusercontent.com/u/44903069?v=4" width="100px;" alt=""/><br /><sub><b>Nicolas Viénot</b></sub></a><br /><a href="#infra-nicolasvienot" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/nicolasvienot/n-puzzle/commits?author=nicolasvienot" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/sgalasso42"><img src="https://avatars2.githubusercontent.com/u/38636967?v=4" width="100px;" alt=""/><br /><sub><b>Simon Galasso</b></sub></a><br /><a href="#infra-sgalasso42" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/nicolasvienot/n-puzzle/commits?author=sgalasso42" title="Code">💻</a></td>
+    <td align="center"><a href="https://fr.linkedin.com/in/nicolasvienot"><img src="https://avatars0.githubusercontent.com/u/44903069?v=4" width="100px;" alt=""/><br /><sub><b>Nicolas Viénot</b></sub></a><br /><a href="#infra-nicolasvienot" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/nicolasvienot/n-puzzle/commits?author=nicolasvienot" title="Code">💻</a></td>
   </tr>
 </table>
 
